@@ -1,0 +1,8 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yinbai/admin.git",
+  "author": "Yinbai <cuptea@outlook.com>",
+  "license": "MIT"
+}
