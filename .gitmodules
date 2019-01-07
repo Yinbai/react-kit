@@ -1,9 +1,9 @@
 [submodule "src/common"]
 	path = src/common
-	url = https://github.com/Yinbai/common.git
+	url = git@github.com:Yinbai/common.git
 [submodule "src/team"]
 	path = src/team
-	url = https://github.com/Yinbai/AoV-Team.git
+	url = git@github.com:Yinbai/aov-team.git
 [submodule "src/admin"]
 	path = src/admin
-	url = https://github.com/Yinbai/admin.git
+	url = git@github.com:Yinbai/admin.git

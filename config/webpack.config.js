@@ -56,7 +56,7 @@ module.exports = function(webpackEnv, module) {
   const isEnvDevelopment = webpackEnv === 'development';
   const isEnvProduction = webpackEnv === 'production';
 
-  const entry = module && module.entry || paths.appIndexJs;
+  const entry = module || paths.appIndexJs;
 
   // Webpack uses `publicPath` to determine where the app is being served from.
   // It requires a trailing slash, or the file assets will get an incorrect path.
